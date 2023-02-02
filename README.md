@@ -3,7 +3,7 @@
 The python codes that produced results for the paper "Mechanistic modeling, parametric study and optimization of immobilization of enzymatic cascades in porous particles" can be found here. 
 
 They are organised in three categories: 
-  - Codes for the contours 
+  - Codes for the contour plots
   - Codes for the parametric study
   - Codes for the application example
 
