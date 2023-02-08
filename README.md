@@ -10,6 +10,6 @@ They are organised in three folders:
 ## Publications
 When using this work, please cite our paper:
 
-Leandros Paschalidis, Sara Arana-Pena, Volker Sieber, Jakob Burger,
+Leandros Paschalidis, Sara Arana-Peña, Volker Sieber, Jakob Burger,
 Mechanistic modeling, parametric study and optimization of immobilization of enzymatic cascades in porous particles,
 Submitted to the journal: Reaction Chemistry & Engineering. 
