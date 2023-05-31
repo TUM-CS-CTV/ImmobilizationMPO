@@ -12,4 +12,4 @@ When using this work, please cite our paper:
 
 Leandros Paschalidis, Sara Arana-Peña, Volker Sieber, Jakob Burger,
 Mechanistic modeling, parametric study and optimization of immobilization of enzymatic cascades in porous particles,
-Submitted to the journal: Reaction Chemistry & Engineering. 
+Published in the journal: Reaction Chemistry & Engineering. https://doi.org/10.1039/D3RE00072A
